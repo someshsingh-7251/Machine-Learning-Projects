@@ -1,3 +1,6 @@
+![Profile views](https://komarev.com/ghpvc/?username=someshsingh-7251)
+ 
+
 # Machine Learning Projects
 
 Welcome to my Machine Learning Projects repository! This repository contains a collection of machine learning projects that I've developed as part of my learning journey. Each project explores a different machine learning concept, algorithm, or dataset.
