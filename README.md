@@ -156,15 +156,15 @@ Notebook: 11. Loan Repayment Prediction.ipynb
 
 ## 🧠 Skills Demonstrated
 
-Data Preprocessing: Handling missing values, encoding categorical variables, and feature scaling.
+- Data Preprocessing: Handling missing values, encoding categorical variables, and feature scaling.
 
-Model Building: Implementing regression, classification, clustering, and neural network models.
+- Model Building: Implementing regression, classification, clustering, and neural network models.
 
-Model Evaluation: Assessing model performance using appropriate metrics and validation techniques.
+- Model Evaluation: Assessing model performance using appropriate metrics and validation techniques.
 
-Data Visualization: Utilizing libraries like Matplotlib and Seaborn for exploratory data analysis.
+- Data Visualization: Utilizing libraries like Matplotlib and Seaborn for exploratory data analysis.
 
-Machine Learning Frameworks: Proficiency in Scikit-learn and TensorFlow/Keras.
+- Machine Learning Frameworks: Proficiency in Scikit-learn and TensorFlow/Keras.
 
 
 ---
