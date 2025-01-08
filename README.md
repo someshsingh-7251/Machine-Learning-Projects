@@ -20,7 +20,7 @@ Here's a refined README for your GitHub repository, highlighting each project wi
 
 ## 📂 Project List
 
-## 1. House Price Prediction on Boston Housing Data
+### 1. House Price Prediction on Boston Housing Data
 
 - Description: Predicts house prices in Boston using regression techniques.
 
@@ -32,7 +32,7 @@ Here's a refined README for your GitHub repository, highlighting each project wi
 
 
 
-2. Brain Weight Prediction
+### 2. Brain Weight Prediction
 
 - Description: Estimates brain weight based on head size and other factors.
 
@@ -44,7 +44,7 @@ Here's a refined README for your GitHub repository, highlighting each project wi
 
 
 
-3. Encoding of Categorical Data
+### 3. Encoding of Categorical Data
 
 - Description: Demonstrates various techniques to encode categorical variables for machine learning models.
 
@@ -56,7 +56,7 @@ Here's a refined README for your GitHub repository, highlighting each project wi
 
 
 
-4. Logistic Regression on Iris Dataset
+### 4. Logistic Regression on Iris Dataset
 
 - Description: Applies logistic regression to classify iris species based on flower characteristics.
 
@@ -68,7 +68,7 @@ Here's a refined README for your GitHub repository, highlighting each project wi
 
 
 
-5. Breast Cancer Prediction
+### 5. Breast Cancer Prediction
 
 - Description: Builds a model to predict the presence of breast cancer based on medical data.
 
@@ -80,7 +80,7 @@ Here's a refined README for your GitHub repository, highlighting each project wi
 
 
 
-6. KNN Clustering on the Iris Dataset
+### 6. KNN Clustering on the Iris Dataset
 
 - Description: Utilizes K-Nearest Neighbors algorithm to cluster iris species.
 
@@ -92,7 +92,7 @@ Here's a refined README for your GitHub repository, highlighting each project wi
 
 
 
-7. K-Means Algorithm
+### 7. K-Means Algorithm
 
 - Description: Implements the K-Means clustering algorithm on a sample dataset.
 
@@ -104,7 +104,7 @@ Here's a refined README for your GitHub repository, highlighting each project wi
 
 
 
-8. Artificial Neural Network
+### 8. Artificial Neural Network
 
 - Description: Constructs an artificial neural network for a classification problem.
 
@@ -116,7 +116,7 @@ Here's a refined README for your GitHub repository, highlighting each project wi
 
 
 
-9. Vehicle Count Prediction
+### 9. Vehicle Count Prediction
 
 - Description: Predicts the number of vehicles passing through a junction using time-series data.
 
@@ -128,7 +128,7 @@ Here's a refined README for your GitHub repository, highlighting each project wi
 
 
 
-10. Fake News Detection
+### 10. Fake News Detection
 
 - Description: Detects fake news articles using natural language processing and machine learning.
 
@@ -140,7 +140,7 @@ Here's a refined README for your GitHub repository, highlighting each project wi
 
 
 
-11. Loan Repayment Prediction
+### 11. Loan Repayment Prediction
 
 - Description: Predicts the likelihood of loan repayment based on applicant data.
 
