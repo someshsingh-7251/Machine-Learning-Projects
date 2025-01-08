@@ -18,7 +18,7 @@ Here's a refined README for your GitHub repository, highlighting each project wi
 
 ---
 
-📂 Project List
+## 📂 Project List
 
 1. House Price Prediction on Boston Housing Data
 
@@ -28,7 +28,7 @@ Technologies: Python, Jupyter Notebook, Scikit-learn, Pandas, NumPy
 
 Objective: To build a model that accurately estimates house prices based on various features.
 
-Notebook: 01. House Price Prediction On Boston Housing Data.ipynb
+Notebook: [01. House Price Prediction On Boston Housing Data.ipynb]
 
 
 
@@ -154,7 +154,7 @@ Notebook: 11. Loan Repayment Prediction.ipynb
 
 ---
 
-🧠 Skills Demonstrated
+## 🧠 Skills Demonstrated
 
 Data Preprocessing: Handling missing values, encoding categorical variables, and feature scaling.
 
