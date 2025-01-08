@@ -22,7 +22,7 @@ Here's a refined README for your GitHub repository, highlighting each project wi
 
 1. House Price Prediction on Boston Housing Data
 
-Description: Predicts house prices in Boston using regression techniques.
+_ Description: Predicts house prices in Boston using regression techniques.
 
 Technologies: Python, Jupyter Notebook, Scikit-learn, Pandas, NumPy
 
