@@ -20,15 +20,13 @@ Here's a refined README for your GitHub repository, highlighting each project wi
 
 ## 📂 Project List
 
-### 1. [House Price Prediction on Boston Housing Data](01. House Price Predection On Poston Housing Data.ipynb)
+### 1. House Price Prediction on Boston Housing Data
 
 - Description: Predicts house prices in Boston using regression techniques.
 
 - Technologies: Python, Jupyter Notebook, Scikit-learn, Pandas, NumPy
 
 - Objective: To build a model that accurately estimates house prices based on various features.
-
-- Notebook: [01. House Price Prediction On Boston Housing Data.ipynb]
 
 
 
@@ -40,7 +38,6 @@ Here's a refined README for your GitHub repository, highlighting each project wi
 
 - Objective: To understand the correlation between head size and brain weight and predict the latter.
 
-- Notebook: 02. Brain Weight Prediction.ipynb
 
 
 
@@ -64,7 +61,7 @@ Here's a refined README for your GitHub repository, highlighting each project wi
 
 - Objective: To implement logistic regression for multi-class classification.
 
-- Notebook: 04. Logistic Regression on Iris Dataset.ipynb
+
 
 
 
@@ -88,7 +85,7 @@ Here's a refined README for your GitHub repository, highlighting each project wi
 
 - Objective: To explore clustering techniques and their application to the Iris dataset.
 
-- Notebook: 06. KNN Clustering on the Iris Dataset.ipynb
+
 
 
 
@@ -100,7 +97,7 @@ Here's a refined README for your GitHub repository, highlighting each project wi
 
 - Objective: To understand and apply K-Means clustering for data segmentation.
 
-- Notebook: 07. K-Mean Algorithm.ipynb
+
 
 
 
@@ -112,7 +109,7 @@ Here's a refined README for your GitHub repository, highlighting each project wi
 
 - Objective: To design and train a neural network model for predictive analysis.
 
-- Notebook: 08. Artificial Neural Network.ipynb
+
 
 
 
@@ -124,7 +121,7 @@ Here's a refined README for your GitHub repository, highlighting each project wi
 
 - Objective: To apply regression techniques for forecasting vehicle counts.
 
-- Notebook: 09. Vehicle Count Prediction.ipynb
+
 
 
 
@@ -136,7 +133,7 @@ Here's a refined README for your GitHub repository, highlighting each project wi
 
 - Objective: To build a classifier that distinguishes between real and fake news.
 
-- Notebook: 10. Fake News Detection.ipynb
+
 
 
 
@@ -148,7 +145,6 @@ Here's a refined README for your GitHub repository, highlighting each project wi
 
 - Objective: To develop a model that assesses credit risk for financial institutions.
 
-- Notebook: 11. Loan Repayment Prediction.ipynb
 
 
 
