@@ -146,7 +146,13 @@ Here's a refined README for your GitHub repository, highlighting each project wi
 - Objective: To develop a model that assesses credit risk for financial institutions.
 
 
+### 12. Rainfall Prediction
 
+- Description: Predicts rainfall levels using regression techniques based on historical weather data.
+
+- Technologies: Python, Jupyter Notebook, Scikit-learn, Pandas, NumPy.
+
+- Objective: Use meteorological data to forecast rainfall and support agricultural and weather management systems.
 
 ---
 
